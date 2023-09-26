@@ -197,6 +197,7 @@
     .imgStyle{
         height: 150px;
         width: 150px;
+        margin-top: 20px;
         border-radius: 3cm;
         border: 3px solid #8c1919;
     }
